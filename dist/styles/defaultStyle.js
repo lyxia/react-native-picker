@@ -1,13 +1,7 @@
-//@flow
-
-import {
-    StyleSheet,
-} from 'react-native'
-
+import { StyleSheet, } from 'react-native';
 export default StyleSheet.create({
     scrollView: {
         height: 200,
-        backgroundColor: 'red'
     },
     lineStyle: {
         position: 'absolute',
@@ -17,4 +11,5 @@ export default StyleSheet.create({
         borderBottomWidth: StyleSheet.hairlineWidth,
         borderColor: 'gray'
     }
-})
+});
+//# sourceMappingURL=defaultStyle.js.map

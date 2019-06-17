@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "ES6",
+    "moduleResolution": "node",
+    "lib": [
+      "es2015",
+    ],
+    "jsx": "react",
+     "sourceMap": true,
+     "rootDir": "./js",
+     "outDir": "./dist",
+    "strict": false,
+     "types": [
+       "react",
+       "react-native"
+     ],
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
+    "experimentalDecorators": true
+  }
+}
